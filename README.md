@@ -548,7 +548,7 @@ InfoTab:AddParagraph({ "Bazuka (Discord: @Bazuka.zz, Roblox Breno010L e itz_kadu
 InfoTab:AddParagraph({ "Colaborações:", "Lolyta, Venom, Luscaa, Passarinho da quebrada, Wx" })
 InfoTab:AddParagraph({ "Você está usando:", "KitK4t Hub" })
 InfoTab:AddParagraph({"Novo server do Discord! entre Agr!"})
-InfoTab:AddParagraph({"Novidades:", "Novo shutdown em jogadores! Agora eles vão ter glitches enquanto jogam."})
+InfoTab:AddParagraph({"Novidades:", "Lolyta e so do Bazuka! obs: te amo lolyta"})
 InfoTab:AddButton({"Versão Experimental", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/wx-sources/spacecomm/refs/heads/main/experimental"))()
 end})
